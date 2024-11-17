@@ -1,0 +1,1 @@
+https://api.whatsapp.com/send?phone=2349169453919&text=Hye%20admin%20I%20am%20a%20user%20of%20Blue%20Pay%20v.2024
